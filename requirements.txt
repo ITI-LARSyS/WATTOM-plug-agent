@@ -3,7 +3,7 @@ aiohttp==3.10.8
 async-timeout==4.0.3
 grequests==0.7.0
 eventlet==0.37.0
-Flask-SocketIO==5.3.7
+Flask-SocketIO==5.4.1
 zeroconf==0.135.0
 Flask==3.0.3
 
