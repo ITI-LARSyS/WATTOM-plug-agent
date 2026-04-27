@@ -1,5 +1,5 @@
 async_timeout==4.0.3
-aiohttp==3.11.18
+aiohttp==3.13.5
 async-timeout==4.0.3
 grequests==0.7.0
 eventlet==0.37.0
